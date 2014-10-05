@@ -1,4 +1,4 @@
 PyNN-models
 ===========
 
-Computational models developed using PyNN
+Computational models I developed using PyNN language (neuralensemble.org)
